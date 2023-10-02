@@ -1,6 +1,6 @@
 tensorflow-gpu==1.12.0
 numpy
-av
+av==8.0.3
 editdistance
 configargparse
 six
